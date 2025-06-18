@@ -2,4 +2,4 @@
 # Atividade Git - Grupo 4
 
 **Integrantes:**
--Gaspar José da Silva
+Gaspar José da Silva
