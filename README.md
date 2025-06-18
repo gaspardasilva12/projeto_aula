@@ -3,6 +3,7 @@
 # Atividade Git - Grupo 4
 
 **Integrantes:**
--Gaspar José da Silva
 
--Esteban
+- Gaspar José da Silva
+- Jorgito
+- Esteban
