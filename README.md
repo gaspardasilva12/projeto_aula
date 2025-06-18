@@ -1,2 +1,5 @@
 # projeto_aula
-Mais do que desenvolver, é pensar além.
+# Atividade Git - Grupo 4
+
+**Integrantes:**
+-Gaspar José da Silva
