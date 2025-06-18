@@ -2,5 +2,5 @@
 # Atividade Git - Grupo 4
 
 **Integrantes:**
-Gaspar José da Silva
-Jorgito
+- Gaspar José da Silva
+- Jorgito
