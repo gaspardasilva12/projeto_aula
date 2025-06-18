@@ -1,4 +1,4 @@
-# projeto_aula
+# Projeto_aula
 # Atividade Git - Grupo 4
 
 **Integrantes:**
